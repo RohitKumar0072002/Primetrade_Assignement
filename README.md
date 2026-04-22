@@ -15,7 +15,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 3. Run All Cells top to bottom
 
 > Note: historical_data.csv is 45MB — download from:
-> [Download](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)
+> [Click Here to Download](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)
 
 ## Methodology
 - Loaded and cleaned both datasets, aligned by date
